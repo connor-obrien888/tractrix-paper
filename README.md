@@ -1,5 +1,5 @@
 # Tractrix Model Analysis
-Codes used in O'Brien et al. (2021) to derive the tractrix model of the magnetopause, optimize it, and generate figures detailing its performance.
+Codes and data splits used in O'Brien et al. (2021) to derive the tractrix model of the magnetopause, optimize it, and generate figures detailing its performance.
 
 If the model seems useful to you, check out implementations of it in [python](https://github.com/connor-obrien888/tractrix-python/) and [IDL](https://github.com/connor-obrien888/tractrix-IDL/)!
 Consists of four scripts:
